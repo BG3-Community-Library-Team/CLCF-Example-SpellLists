@@ -1,7 +1,9 @@
 # CF Example Mods
-[![GitHub release](https://img.shields.io/github/v/tag/BG3-Community-Library-Team/CF-Example-Mods?label=Latest%20Version)](https://GitHub.com/BG3-Community-Library-Team/CF-Example-Mods/releases/) [![GitHub commits](https://img.shields.io/github/commits-since/BG3-Community-Library-Team/CF-Example-Mods/2.5.2/main)](https://GitHub.com/BG3-Community-Library-Team/CF-Example-Mods/commit/)
+[![GitHub release](https://img.shields.io/github/v/tag/BG3-Community-Library-Team/CF-Example-Mods?label=Latest%20Version)](https://GitHub.com/BG3-Community-Library-Team/CF-Example-Mods/releases/) [![GitHub commits](https://img.shields.io/github/commits-since/BG3-Community-Library-Team/CF-Example-Mods/2.5.2.0/main)](https://GitHub.com/BG3-Community-Library-Team/CF-Example-Mods/commit/)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O8PG8RF)
+| Donate to NellsRelo |
+| - |
+| [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O8PG8RF) |
 
 These are example mods designed to work alongside the Compatibility Framework. They are designed to showcase the simplicity of using various functions.
 
