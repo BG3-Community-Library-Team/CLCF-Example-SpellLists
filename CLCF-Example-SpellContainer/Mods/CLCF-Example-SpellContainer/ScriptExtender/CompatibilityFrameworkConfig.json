@@ -1,0 +1,13 @@
+{
+    "FileVersion": 1,
+    "Spells": [
+      {
+        "modGuid": "d8fa8a47-1c59-4b62-a086-4058a914f028",
+        "ID": "Shout_PactOfTheBlade",
+        "Action": "Insert",
+        "ContainerSpells": [
+          "Shout_PactOfTheBlade_Gunblade_Longsword"
+        ]
+      }
+    ]
+  }

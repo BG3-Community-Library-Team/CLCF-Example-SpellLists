@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="320" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="fe02420a-2f28-4f5e-b3bf-0be233bf9cf0" />
+					<attribute id="Name" type="LSString" value="CLCF_Gunblade_Longsword_Pact" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h94e74488g978bg46c7g9010ga1d79edc6524" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h497e61c7g3bc1g4f8ag8da7gb4bc8f980148" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="15d2830c-ac76-4b5b-969d-05197875b1c2" />
+					<attribute id="ReadinessFlags" type="uint32" value="144" />
+					<attribute id="VisualTemplate" type="FixedString" value="e5878808-a27c-4ae2-9af2-71c27d8b4fd6" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="cd4a8a69-8f43-bfe1-5998-5831c52ffd19" />
+					<attribute id="Icon" type="FixedString" value="ATO_Gunblade_Longsword" />
+					<attribute id="Stats" type="FixedString" value="CLCF_Gunblade_Longsword_Pact" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="be460271-537a-4443-a9b5-6c6c6a005ab3" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

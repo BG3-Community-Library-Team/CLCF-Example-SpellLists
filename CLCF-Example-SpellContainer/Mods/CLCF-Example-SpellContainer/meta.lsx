@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+  <version major="4" minor="0" revision="0" build="49"/>
+  <region id="Config">
+    <node id="root">
+      <children>
+        <node id="Dependencies"/>
+        <node id="ModuleInfo">
+          <attribute id="Author" type="LSWString" value="BG3 Community"/>
+          <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
+          <attribute id="Description" type="LSWString" value="CF Example Mod. Pact of the Blade Warlocks can summon a gunblade longsword. Requires Gunblade mod by AnxietyTheOrk."/>
+          <attribute id="Folder" type="LSWString" value="CLCF-Example-SpellContainer"/>
+          <attribute id="GMTemplate" type="FixedString" value=""/>
+          <attribute id="LobbyLevelName" type="FixedString" value=""/>
+          <attribute id="MD5" type="LSString" value=""/>
+          <attribute id="MainMenuBackgroundVideo" type="FixedString" value=""/>
+          <attribute id="MenuLevelName" type="FixedString" value=""/>
+          <attribute id="Name" type="FixedString" value="Pact of the Gunblade"/>
+          <attribute id="NumPlayers" type="uint8" value="4"/>
+          <attribute id="PhotoBooth" type="FixedString" value=""/>
+          <attribute id="StartupLevelName" type="FixedString" value=""/>
+          <attribute id="Tags" type="LSWString" value="Template;Example"/>
+          <attribute id="Type" type="FixedString" value="Mod"/>
+          <attribute id="UUID" type="FixedString" value="c1cfc0d3-0000-0000-0000-addb1ade0001"/>
+          <attribute id="Version64" type="int64" value="72761285774671872"/>
+          <children>
+            <node id="PublishVersion">
+              <attribute id="Version64" type="int64" value="72761285774671872"/>
+            </node>
+            <node id="Scripts"/>
+            <node id="TargetModes">
+              <children>
+                <node id="Target">
+                  <attribute id="Object" type="FixedString" value="Story"/>
+                </node>
+              </children>
+            </node>
+          </children>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>
