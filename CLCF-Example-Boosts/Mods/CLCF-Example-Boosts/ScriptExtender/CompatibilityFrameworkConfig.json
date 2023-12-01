@@ -1,0 +1,21 @@
+{
+    "FileVersion": 1,
+    "Progressions": [
+        {
+            "UUIDs": [
+                "c091d27e-009b-4841-8bde-5e63e5ca8f4e",
+                "297e0cb5-9743-4ae8-b053-b3850f0fa134"
+            ],
+            "Strings": [
+                {
+                  "Action": "Insert",
+                  "Type": "Boosts",
+                  "Strings": [
+                    "Proficiency(Scimitars)",
+                    "Proficiency(HandCrossbows)"
+                ]
+                }
+            ]
+        }
+    ]
+}
