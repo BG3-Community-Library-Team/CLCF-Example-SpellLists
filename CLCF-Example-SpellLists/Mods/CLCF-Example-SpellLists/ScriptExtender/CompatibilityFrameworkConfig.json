@@ -103,6 +103,69 @@
             ],
             "Type": "SpellList",
             "Items": [ "Target_Bane", "Shout_DetectMagic", "Shout_SpeakWithAnimals" ]
+        },
+        {
+            "Comment": "Fathomless (Veenab)",
+            "modGuid": "5d30acc9-66aa-482b-8802-33aad93995e4",
+            "Action": "Insert",
+            "UUIDs": 
+            [
+              "6fc5c1fd-f389-4648-b55a-fe371c517bf6",
+              "8b35fd89-b464-4839-bb89-d6c928eedfe8",
+              "4d04fb8f-c397-414c-b3ba-4d508c9079b1",
+              "ebd3794a-a810-47e1-b98a-40d7dd856736",
+              "df077db5-8c92-46e9-8b87-48cf50683847",
+              "b4cb9e59-45cd-437d-87f5-f0aa1dd7e0aa"
+            ],
+            "Type": "SpellList",
+            "Items": [ "Target_Bane", "Shout_DetectMagic", "Shout_SpeakWithAnimals" ]
+        },
+        {
+            "Comment": "Genie (Veenab)",
+            "modGuid": "0cb5018a-f898-4446-9b9e-8f7a6c3fa9ea",
+            "Action": "Insert",
+            "UUIDs": 
+            [
+              "212298bf-8bfb-403b-ac81-4096c22577e7",
+              "424d4188-4178-48d9-b53d-6abac1562fff",
+              "e999273a-b4b4-4950-9ae8-f8395cef87af",
+              "19a3ef71-47df-44a8-83ae-0ec1830a5b12",
+              "934f02de-95db-4149-9f48-1f4bf43f42e9",
+              "093349cf-c4e3-41a3-89a7-32135b9fd6b2"
+            ],
+            "Type": "SpellList",
+            "Items": [ "Target_Bane", "Shout_DetectMagic", "Shout_SpeakWithAnimals" ]
+        },
+        {
+            "Comment": "Undead (Veenab)",
+            "modGuid": "",
+            "Action": "Insert",
+            "UUIDs": 
+            [
+              "d96e823c-cbd5-4027-b30e-7cb30371422f",
+              "d9c1c284-28fb-4148-89fe-012d880c983c",
+              "9bdfed5a-7a7a-490a-830c-a0c29388d52f",
+              "96e36fa6-6bc2-48c5-9b7f-6d7145ccdf4c",
+              "a5b79766-67ba-4a4d-a2ea-03a3c84b61a0"
+            ],
+            "Type": "SpellList",
+            "Items": [ "Target_Bane", "Shout_DetectMagic", "Shout_SpeakWithAnimals" ]
+        },
+        {
+            "Comment": "DarkHunger (Veenab)",
+            "modGuid": "",
+            "Action": "Insert",
+            "UUIDs": 
+            [
+              "c52b6941-a57f-4be8-beb8-7a1b2a3998c6",
+              "6d79851a-5148-403b-95b9-a65aee161697",
+              "f18ad912-e2f4-47a9-8744-73d6a51c2941",
+              "dfae08ad-218c-4912-8d46-ad7d270c09d7",
+              "eeb7b9fb-5e8a-4164-aff3-5a70ba569b7e",
+              "646d5a61-99a3-41a4-8d85-856eef77ec46"
+            ],
+            "Type": "SpellList",
+            "Items": [ "Target_Bane", "Shout_DetectMagic", "Shout_SpeakWithAnimals" ]
         }
     ]
 }
