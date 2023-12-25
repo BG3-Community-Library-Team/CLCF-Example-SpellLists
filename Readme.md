@@ -2,7 +2,7 @@
 
 | [![GitHub release](https://img.shields.io/github/v/tag/BG3-Community-Library-Team/CF-Example-Mods?label=Latest%20Version)](https://GitHub.com/BG3-Community-Library-Team/CF-Example-Mods/releases/) | Donate to NellsRelo <br> The BG3 Community Library Lead |
 | - | -|
-| [![GitHub commits](https://img.shields.io/github/commits-since/BG3-Community-Library-Team/CF-Example-Mods/2.5.2.0/main)](https://GitHub.com/BG3-Community-Library-Team/CF-Example-Mods/commit/) | [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O8PG8RF) |
+| [![GitHub commits](https://img.shields.io/github/commits-since/BG3-Community-Library-Team/CF-Example-Mods/2.6.3.1/main)](https://GitHub.com/BG3-Community-Library-Team/CF-Example-Mods/commit/) | [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O8PG8RF) |
 
 These are example mods designed to work alongside the Compatibility Framework. They are designed to showcase the simplicity of using various functions.
 
@@ -28,7 +28,10 @@ The supported subclasses are:
 - [Hexblade](https://www.nexusmods.com/baldursgate3/mods/1100)
 - [Undead](https://www.nexusmods.com/baldursgate3/mods/3045)
 - [DreadOverlord](https://www.nexusmods.com/baldursgate3/mods/394)
-- [RavenQueen](https://www.nexusmods.com/baldursgate3/mods/1895)
+- [Fathomless](https://www.nexusmods.com/baldursgate3/mods/2724)
+- [Genie](https://www.nexusmods.com/baldursgate3/mods/2895)
+- [Undead](https://www.nexusmods.com/baldursgate3/mods/2612)
+- [DarkHunger](https://www.nexusmods.com/baldursgate3/mods/5116)
 
 [Inspired by OneDnD Player's Handbook Playtest 7](https://www.dndbeyond.com/sources/ua/ph-playtest-7)
 
