@@ -33,7 +33,7 @@ The supported subclasses are:
 - [Undead](https://www.nexusmods.com/baldursgate3/mods/2612)
 - [DarkHunger](https://www.nexusmods.com/baldursgate3/mods/5116)
 
-[Inspired by OneDnD Player's Handbook Playtest 7](https://www.dndbeyond.com/sources/ua/ph-playtest-7)
+> [Inspired by OneDnD Player's Handbook Playtest 7](https://www.dndbeyond.com/sources/ua/ph-playtest-7)
 
 > *Permission has been granted by the respective mod authors to include them in this mod.*
 
