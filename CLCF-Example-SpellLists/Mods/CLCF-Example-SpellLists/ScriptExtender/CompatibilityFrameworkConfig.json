@@ -138,7 +138,7 @@
         },
         {
             "Comment": "Undead (Veenab)",
-            "modGuid": "",
+            "modGuid": "d213482c-2d43-4f78-9ed4-d86f577b6017",
             "Action": "Insert",
             "UUIDs": 
             [
@@ -153,7 +153,7 @@
         },
         {
             "Comment": "DarkHunger (Veenab)",
-            "modGuid": "",
+            "modGuid": "7a57bc83-1ed2-4c7a-9e26-cd6a01f911f6",
             "Action": "Insert",
             "UUIDs": 
             [
