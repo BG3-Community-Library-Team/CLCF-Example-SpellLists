@@ -1,5 +1,0 @@
-new entry "DAYLIGHT"
-type "StatusData"
-data "StatusType" "BOOST"
-using "DAYLIGHT"
-data "StatusEffect" ""
