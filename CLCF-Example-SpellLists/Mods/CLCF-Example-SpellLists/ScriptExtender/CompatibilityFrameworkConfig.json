@@ -166,6 +166,21 @@
             ],
             "Type": "SpellList",
             "Items": [ "Target_Bane", "Shout_DetectMagic", "Shout_SpeakWithAnimals" ]
-        }
+        },
+        {
+            "Comment": "SpeedForce (GreatOldOneBob)",
+            "modGuid": "9b150d4f-ba25-4793-8bf5-773846f4289f",
+            "Action": "Insert",
+            "UUIDs": 
+            [
+              "363d35db-f4a2-4148-bfc6-6ec014d8ef5a",
+              "4005cead-1c03-4b36-932c-2c3df38da9ef",
+              "26e0d9dc-0623-47ab-bcce-5d3820a15ed3",
+              "842f49c9-bfdb-4604-8224-2162e938929d",
+              "f8d46828-1778-4dd4-bcb7-55968c16caf9"
+            ],
+            "Type": "SpellList",
+            "Items": [ "Target_Bane", "Shout_DetectMagic", "Shout_SpeakWithAnimals" ]
+        }        
     ]
 }
